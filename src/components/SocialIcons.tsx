@@ -61,7 +61,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/akashrmalhotra"
+            href="https://github.com/muzammilkhadim"
             target="_blank"
             rel="noreferrer"
           >
@@ -70,7 +70,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/akashrmalhotra/"
+            href="https://www.linkedin.com/in/muzammilkhadim/"
             target="_blank"
             rel="noreferrer"
           >
@@ -79,7 +79,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.youtube.com/@Leftbraincoder"
+            href="https://www.youtube.com/@Muzammil Khadim "
             target="_blank"
             rel="noreferrer"
           >
@@ -88,7 +88,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.instagram.com/leftbraincoder/"
+            href="https://www.instagram.com/muzammilkhadim/"
             target="_blank"
             rel="noreferrer"
           >
@@ -98,11 +98,11 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Akash_Malhotra.pdf"
+        href="/https://wa.me/923052206465?text=I%20came%20from%20your%20website"
         target="_blank"
         rel="noreferrer"
       >
-        <HoverLinks text="RESUME" />
+        <HoverLinks text="WHATSAPP" />
         <span>
           <TbNotes />
         </span>

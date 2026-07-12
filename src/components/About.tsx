@@ -6,11 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          Hi, I'm Muzammil Khadim, a BS Medical Laboratory Technology (BS MLT) 
+          student with a passion for learning, content creation, and online business. 
+          I enjoy exploring new opportunities, improving my skills, and creating 
+          high-quality digital content. My goal is to build a successful career, 
+          achieve financial independence, and make a positive impact through hard work 
+          and creativity.
         </p>
       </div>
     </div>

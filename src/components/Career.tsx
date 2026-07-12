@@ -21,8 +21,7 @@ const Career = () => {
               <h3>NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Building AI-powered content, growing digital    businesses, and creating opportunities through innovation.
             </p>
           </div>
           <div className="career-info-box">
@@ -31,12 +30,12 @@ const Career = () => {
                 <h4>Adobe</h4>
                 <h5>6+ years · Noida</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2024–25</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
+              Senior Lead Software Engineer (2024-2026). Lead Software
+              Engineer (Feb 2024 – Feb 2026). Software Engineer II (Dec 2023 –
+              Feb 2024): internationalization, globalization, and localization for
               Adobe Technical Communication Suite; functional and linguistic testing
               strategy; in-house tooling; collaboration with product and engineering
               for high-quality localized releases.
@@ -48,10 +47,10 @@ const Career = () => {
                 <h4>Consultant</h4>
                 <h5>Genpact Headstrong </h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2024–26</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
+              Sep 2024 – Nov 2026. Developed and maintained WCF services consumed
               by the UI; deployment support across environments; NUnit tests and
               coverage; bug fixes from QA and users; database work.
             </p>
